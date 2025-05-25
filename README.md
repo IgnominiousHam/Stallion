@@ -3,7 +3,7 @@
 This project configures a Raspberry Pi for use as a mobile Wi-Fi direction-finding (DF) device. It leverages:
 
 - 🧭 [Kismet](https://www.kismetwireless.net/) – a powerful wireless network detector and sniffer
-- 📶 [kismet_web_rssi-bar](https://github.com/GrokkedBandwidth/kismet_web_rssi-bar) – an awesome web-based RSSI bar display
+- 📶 [kismet_web_rssi-bar](https://github.com/GrokkedBandwidth/kismet_web_rssi-bar) – an awesome web-based RSSI bar display by @GrokkedBandwidth
 
 ## ⚙️ Features
 
